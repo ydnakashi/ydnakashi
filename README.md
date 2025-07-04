@@ -1,4 +1,4 @@
-## Hi 👋 
+## Hi 👋 I'm Yuki Nakashima
 
 <!--
 **ydnakashi/ydnakashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 -->
+### A computer science student in management & business systems stream from Canada
 
 - 🔭 I’m currently working on Python and AI integration
 - 🌱 I’m currently learning penetration testing with HackTheBox
